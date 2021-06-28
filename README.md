@@ -4,7 +4,6 @@
 [![some projects ](noimage.png)](https://www.youtube.com/watch?v=dtKciwk_si4)
 
 
-
 You can find the projects [here](https://10projects10hours.netlify.app/).
 
 1. Countdown Timer
@@ -12,6 +11,7 @@ You can find the projects [here](https://10projects10hours.netlify.app/).
 -   Design: https://uidesigndaily.com/posts/sketch-countdown-timer-day-876
 -   future date
 -   timer
+## [Personalize date timer with php and mysql](https://technosmarter.com/php/how-to-create-countdown-timer.php)
 
 2. Quiz App
 
